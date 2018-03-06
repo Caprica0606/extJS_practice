@@ -1,2 +1,0 @@
-# extJS_practice
-practicing
